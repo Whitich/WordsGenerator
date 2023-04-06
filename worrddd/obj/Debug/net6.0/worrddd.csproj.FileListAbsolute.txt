@@ -1,0 +1,15 @@
+C:\Users\Whitich\source\repos\worrddd\worrddd\bin\Debug\net6.0\worrddd.exe
+C:\Users\Whitich\source\repos\worrddd\worrddd\bin\Debug\net6.0\worrddd.deps.json
+C:\Users\Whitich\source\repos\worrddd\worrddd\bin\Debug\net6.0\worrddd.runtimeconfig.json
+C:\Users\Whitich\source\repos\worrddd\worrddd\bin\Debug\net6.0\worrddd.dll
+C:\Users\Whitich\source\repos\worrddd\worrddd\bin\Debug\net6.0\worrddd.pdb
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.csproj.AssemblyReference.cache
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.AssemblyInfoInputs.cache
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.AssemblyInfo.cs
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.csproj.CoreCompileInputs.cache
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.dll
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\refint\worrddd.dll
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.pdb
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\worrddd.genruntimeconfig.cache
+C:\Users\Whitich\source\repos\worrddd\worrddd\obj\Debug\net6.0\ref\worrddd.dll
